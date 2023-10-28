@@ -6,7 +6,6 @@ Software Engineer
 
 4+ experience working with great teams to make a positive impact in the world. Addicted to Devops and devseocps practices, continuous learning and adaptation and I strongly believe anyone can learn anything with patience and dedication.
 
-*   🖥️  See my portfolio at [gabrielslima.com](http://gabrielslima.com)
 *   🚀  I'm currently working on [https://gabrielslima.github.io/blog/](http://https://gabrielslima.github.io/blog/)
 *   🤝  I'm open to collaborating on Energy Trading Market projects and Cybersecurity projects
 
